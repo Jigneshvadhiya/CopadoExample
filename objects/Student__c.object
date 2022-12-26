@@ -164,7 +164,6 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
-
     <fields>
         <fullName>Student_Name__c</fullName>
         <externalId>false</externalId>
@@ -176,7 +175,6 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-
     <fields>
         <fullName>Student_Fees__c</fullName>
         <externalId>false</externalId>
